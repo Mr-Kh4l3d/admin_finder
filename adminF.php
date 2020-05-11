@@ -7,7 +7,7 @@ print "\n\n \033[93m
  IIIII                                      IIIII
  IIIII ----------- ADMIN FINDER ----------- IIIII
  IIIII                                      IIIII
- IIIII          CODED BY MR.KH4L3D          IIIII
+ IIIII           CODED BY MR.R4MZ           IIIII
  IIIII                                      IIIII
  IIIII                                      IIIII
  IIIII          THANKS TO MR.TENWAP         IIIII
